@@ -1,1 +1,1 @@
-Fashion mnist
+https://www.researchgate.net/publication/282423969_Model_Predictive_Control_in_Industry_Challenges_and_Opportunities
