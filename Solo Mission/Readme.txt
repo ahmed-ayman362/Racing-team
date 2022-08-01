@@ -1,1 +1,1 @@
-Anaconda
+Fashion mnist
